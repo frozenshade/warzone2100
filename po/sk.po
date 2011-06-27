@@ -257,7 +257,7 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:203
 #: data/mp/messages/strings/resstrings.txt:209
 msgid "Assigned automatically to nearest sensor or CB tower"
-msgstr ""
+msgstr "Automaticky pridelený na najbližší senzor alebo CB vežu"
 
 #: data/base/messages/resmessages12.rmsg:7
 #: data/base/messages/resmessages12.rmsg:20
@@ -358,12 +358,12 @@ msgstr "Sila obrany : stredná"
 #: data/base/messages/resmessages12.rmsg:18
 #: data/mp/messages/resmessages12.rmsg:18
 msgid "Mini-rocket armored strongpoint"
-msgstr ""
+msgstr "Mini-raketový obrnený strongpoint"
 
 #: data/base/messages/resmessages12.rmsg:31
 #: data/mp/messages/resmessages12.rmsg:31
 msgid "Armored hardpoint with Heavy Machinegun"
-msgstr ""
+msgstr "Obrnený hardpoint s tažkým gulometom"
 
 #: data/base/messages/resmessages12.rmsg:32
 #: data/base/messages/resmessages12.rmsg:45
@@ -430,7 +430,7 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:329
 #: data/mp/messages/strings/resstrings.txt:335
 msgid "Automatically targets enemies within sensor range"
-msgstr ""
+msgstr "Automatické zameriavanie nepriatela cez dosahový senzor"
 
 #: data/base/messages/resmessages12.rmsg:33
 #: data/base/messages/resmessages12.rmsg:46
@@ -504,7 +504,7 @@ msgstr "Sila obrany : vysoká"
 #: data/base/messages/resmessages12.rmsg:44
 #: data/mp/messages/resmessages12.rmsg:44
 msgid "Armored hardpoint with Lancer AT missile"
-msgstr ""
+msgstr "Obrnený hardpoint s Lancer AT raketami"
 
 #: data/base/messages/resmessages12.rmsg:56
 #: data/base/messages/resmessages23.rmsg:43
@@ -513,7 +513,7 @@ msgstr ""
 #: data/mp/messages/resmessages23.rmsg:43
 #: data/mp/messages/resmessages3.rmsg:511
 msgid "Research Breakthrough Improves Construction Rates"
-msgstr ""
+msgstr "Výskom Pokroku znižuje cenu stavby"
 
 #: data/base/messages/resmessages12.rmsg:57
 #: data/base/messages/resmessages23.rmsg:44
@@ -535,14 +535,14 @@ msgstr "Zvyšuje stavebnú rýchlosť"
 #: data/mp/messages/resmessages23.rmsg:46
 #: data/mp/messages/resmessages3.rmsg:514
 msgid "All trucks upgraded automatically"
-msgstr "Všetky vozidlá upgradované automaticky"
+msgstr "Všetky vozidlá sú automaticky upgradované"
 
 #: data/base/messages/resmessages12.rmsg:69
 #: data/base/messages/resmessages1.rmsg:4
 #: data/mp/messages/resmessages12.rmsg:69
 #: data/mp/messages/resmessages1.rmsg:4
 msgid "New Systems Turret Available for Design"
-msgstr ""
+msgstr "Nové systémy Veže sú dostupné pre dizajn"
 
 #: data/base/messages/resmessages12.rmsg:70
 #: data/mp/messages/resmessages12.rmsg:70
@@ -588,7 +588,7 @@ msgstr "Nový systém detekcie ohňa"
 #: data/mp/messages/resmessages23.rmsg:58
 #: data/mp/messages/resmessages3.rmsg:526
 msgid "Extends CB Range"
-msgstr ""
+msgstr "Rozširujú dosah CB"
 
 #: data/base/messages/resmessages12.rmsg:85
 #: data/base/messages/resmessages23.rmsg:59
@@ -597,7 +597,7 @@ msgstr ""
 #: data/mp/messages/resmessages23.rmsg:59
 #: data/mp/messages/resmessages3.rmsg:527
 msgid "All CB sensors upgraded automatically"
-msgstr ""
+msgstr "Všetky CB senzory sú updatované automaticky"
 
 #: data/base/messages/resmessages12.rmsg:95
 #: data/base/messages/resmessages12.rmsg:212
@@ -614,17 +614,17 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:888
 #: data/mp/messages/resmessagesall.rmsg:212
 msgid "Cannon Upgrade"
-msgstr ""
+msgstr "Upgrade kanónu"
 
 #: data/base/messages/resmessages12.rmsg:96
 #: data/mp/messages/resmessages12.rmsg:96
 msgid "Determines range to target"
-msgstr ""
+msgstr "Určuje rozsah zásahu"
 
 #: data/base/messages/resmessages12.rmsg:97
 #: data/base/messages/resmessagesall.rmsg:175
 msgid "Increases Cannon accuracy"
-msgstr ""
+msgstr "Zvyšuje presnosť kanóna"
 
 #: data/base/messages/resmessages12.rmsg:98
 #: data/base/messages/resmessages12.rmsg:215
@@ -641,7 +641,7 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:891
 #: data/mp/messages/resmessagesall.rmsg:215
 msgid "All cannons upgraded automatically"
-msgstr ""
+msgstr "Všetky kanóny sú upgradované automaticky"
 
 #: data/base/messages/resmessages12.rmsg:108
 #: data/base/messages/resmessages1.rmsg:602
@@ -664,11 +664,11 @@ msgstr "Upgrade plameňometov"
 #: data/mp/messages/resmessages2.rmsg:863
 #: data/mp/messages/strings/resstrings.txt:849
 msgid "Automatic loading mechanism replaces manual loader"
-msgstr ""
+msgstr "Automatický nabíjací mechanizmus nahradil manuálne nabíjanie"
 
 #: data/base/messages/resmessages12.rmsg:110
 msgid "Increases Flamer ROF"
-msgstr ""
+msgstr "Zvýšené ROF plameňomenu"
 
 #: data/base/messages/resmessages12.rmsg:111
 #: data/base/messages/resmessages1.rmsg:605
@@ -680,7 +680,7 @@ msgstr ""
 #: data/mp/messages/resmessagesall.rmsg:774
 #: data/mp/messages/strings/resstrings.txt:805
 msgid "All flamers upgraded automatically"
-msgstr ""
+msgstr "Všetky plameňomety sú upgradované automaticky"
 
 #: data/base/messages/resmessages12.rmsg:121
 #: data/base/messages/resmessages1.rmsg:537
@@ -716,12 +716,12 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:768
 #: data/mp/messages/strings/resstrings.txt:794
 msgid "New Weapon Turret Available"
-msgstr ""
+msgstr "Nová veža dostupná"
 
 #: data/base/messages/resmessages12.rmsg:122
 #: data/mp/messages/resmessages12.rmsg:122
 msgid ".50-calibre heavy machinegun"
-msgstr ""
+msgstr "50-kalibrový tažký gulomet"
 
 #: data/base/messages/resmessages12.rmsg:123
 #: data/base/messages/resmessages1.rmsg:617
@@ -734,7 +734,7 @@ msgstr ""
 #: data/mp/messages/resmessagesall.rmsg:877
 #: data/mp/messages/resmessagesall.rmsg:890
 msgid "Best Targets: Infantry, base structures, wheeled vehicles"
-msgstr ""
+msgstr Najlepšie ciele: Vojaci, základné budovy, kolesové vozidlá""
 
 #: data/base/messages/resmessages12.rmsg:124
 #: data/base/messages/resmessages1.rmsg:45
@@ -870,7 +870,7 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:859
 #: data/mp/messages/strings/resstrings.txt:900
 msgid "Increases Machinegun ROF"
-msgstr ""
+msgstr "Zvýšené ROF gulometu"
 
 #: data/base/messages/resmessages12.rmsg:137
 #: data/base/messages/resmessages1.rmsg:644
@@ -893,7 +893,7 @@ msgstr ""
 #: data/mp/messages/strings/resstrings.txt:889
 #: data/mp/messages/strings/resstrings.txt:901
 msgid "All machineguns upgraded automatically"
-msgstr ""
+msgstr "Všetky gulomety sú upgragované automaticky"
 
 #: data/base/messages/resmessages12.rmsg:147
 #: data/base/messages/resmessages1.rmsg:667
@@ -941,7 +941,7 @@ msgstr ""
 #: data/mp/messages/resmessagesall.rmsg:344
 #: data/mp/messages/strings/resstrings.txt:934
 msgid "Best Targets: Base structures, infantry, wheeled vehicles"
-msgstr ""
+msgstr "Najlepšie ciele: Základné budovy, vojaci, kolesové vozidlá"
 
 #: data/base/messages/resmessages12.rmsg:150
 #: data/base/messages/resmessages12.rmsg:189
@@ -996,7 +996,7 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:1187
 #: data/mp/messages/strings/resstrings.txt:948
 msgid "Mortar Upgrade"
-msgstr ""
+msgstr "Upgrade mortaru"
 
 #: data/base/messages/resmessages12.rmsg:161
 #: data/mp/messages/resmessages12.rmsg:161
@@ -1026,7 +1026,7 @@ msgstr ""
 #: data/mp/messages/resmessages3.rmsg:1190
 #: data/mp/messages/strings/resstrings.txt:951
 msgid "All mortars upgraded automatically"
-msgstr ""
+msgstr "Všetky mortary sú upgradované automaticky"
 
 #: data/base/messages/resmessages12.rmsg:174
 #: data/mp/messages/resmessages12.rmsg:174
@@ -1036,7 +1036,7 @@ msgstr ""
 #: data/base/messages/resmessages12.rmsg:175
 #: data/base/messages/resmessages3.rmsg:1189
 msgid "Increases Mortar ROF"
-msgstr ""
+msgstr "Zvýšené ROF mortaru"
 
 #: data/base/messages/resmessages12.rmsg:186
 #: data/base/messages/resmessages12.rmsg:251
@@ -1051,7 +1051,7 @@ msgstr ""
 #: data/mp/messages/resmessagesall.rmsg:186
 #: data/mp/messages/resmessagesall.rmsg:199
 msgid "New Rocket Available"
-msgstr ""
+msgstr "Nová raketa dostupná"
 
 #: data/base/messages/resmessages12.rmsg:187
 #: data/mp/messages/resmessages12.rmsg:187
